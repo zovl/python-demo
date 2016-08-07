@@ -1,0 +1,16 @@
+{
+  "result": true,
+  "msg": "获取广告成功",
+  "data": [
+    {
+      "ad_id": "12",
+      "download_android": "http://183.56.150.169/dlied4.myapp.com/myapp/1104466820/outer_release/10014441_com.tencent.tmgp.sgame.apk",
+      "download_ios": "",
+      "server_pic_a": "http://apps.ifeimo.com/Public/Uploads/Advert/Flag/57562f290d91f.jpg",
+      "server_pic_i": "http://apps.ifeimo.com/Public/Uploads/Advert/Flag/",
+      "go_url": "http://www.17sysj.com/advertisement/wzry_one",
+      "game_id": "5057",
+      "tj_url": "http://apps.ifeimo.com/Sysj204/Advertisement/adClick"
+    }
+  ]
+}
